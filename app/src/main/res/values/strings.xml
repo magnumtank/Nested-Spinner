@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Spinner</string>
+
+    <string-array name="country_arrays">
+        <item>B.Tech</item>
+        <item>MBA</item>
+        <item>DU</item>
+        <item>OPEN</item>
+        <item>Medical</item>
+        <item>Fashion</item>
+        <item>Vocational</item>
+
+    </string-array>
+
+</resources>
